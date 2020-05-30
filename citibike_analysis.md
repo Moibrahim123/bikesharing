@@ -1,5 +1,4 @@
-![Header](/pics/a_header.png)  
-**Click [here](https://public.tableau.com/profile/shannon.goddard#!/) to view the tableau story**
+
 #### Table of Contents
 
 [About Citi Bike](#about-citi-bike)  
